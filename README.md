@@ -4,4 +4,4 @@
 let me cook!
 ```
 
-_ [PRIVATE REPO](https://github.com/gueswhoami/whoami)
+_ [PRIVATE REPO](https://github.com/gueswhoami/Outbound-Tutorial)
