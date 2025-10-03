@@ -10,7 +10,7 @@ _ [DTR](https://github.com/gueswhoami/dtr) 🔒
 
 
 
-## Welcome to My GitHub Profile!
+## he`y dumbass welcome
 
 Here’s some code I’ve created in my [Gist](https://gist.github.com/gueswhoami/767adb721b8ab9828cfbfd0605be2792):
 
