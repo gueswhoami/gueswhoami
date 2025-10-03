@@ -4,9 +4,9 @@
 let me cook!
 ```
 
-_ [Outbound-Tutorial](https://github.com/gueswhoami/Outbound-Tutorial)
+_ [Outbound-Tutorial](https://github.com/gueswhoami/Outbound-Tutorial) 🔒
 <br>
-_ [DTR](https://github.com/gueswhoami/dtr)
+_ [DTR](https://github.com/gueswhoami/dtr) 🔒
 
 
 
