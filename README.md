@@ -8,7 +8,7 @@ _ [Outbound-Tutorial](https://github.com/gueswhoami/Outbound-Tutorial) 🔒
 <br>
 _ [DTR](https://github.com/gueswhoami/dtr) 🔒
 <br>
-_ [Account](https://github.com/gueswhoami/Account/)
+_ [Account](https://github.com/gueswhoami/Account/) 🔒
 
 
 ## he`y dumbass welcome
